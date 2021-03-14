@@ -1,4 +1,4 @@
-# Hi, I'm Gergo Szasz-Varadi
+### Hi, I'm Gergo Szasz-Varadi
 #### Student at Babeș-Bolyai University
 [![Gergo Szasz-Varadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gergoszaszvaradi&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/gergoszaszvaradi)
 
