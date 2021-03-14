@@ -14,6 +14,8 @@ My biggest project is `spruce` which is my attempt at creating a full-stack 2D g
 #### Some of my favorite projects
 [![Greyboard](https://github-readme-stats.vercel.app/api/pin/?username=gergoszaszvaradi&repo=greyboard)](https://github.com/gergoszaszvaradi/greyboard)
 
+[![spruce-engine](https://github-readme-stats.vercel.app/api/pin/?username=gergoszaszvaradi&repo=spruce-engine)](https://github.com/gergoszaszvaradi/spruce-engine)
+
 [![layout.css](https://github-readme-stats.vercel.app/api/pin/?username=gergoszaszvaradi&repo=layout.css)](https://github.com/gergoszaszvaradi/layout.css)
 #### Languages that I know
 ![C/C++](https://img.shields.io/badge/-C/C++-0?&style=for-the-badge&logo=C%2B%2B&logoColor=4f94ef&color=white)
