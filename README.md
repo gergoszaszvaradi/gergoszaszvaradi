@@ -22,7 +22,6 @@ My biggest project is `spruce` which is my attempt at creating a full-stack 2D g
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-0?&style=for-the-badge&logo=C%20Sharp&logoColor=4f94ef&color=white)
 ![HTML](https://img.shields.io/badge/-HTML-0?&style=for-the-badge&logo=HTML5&logoColor=4f94ef&color=white)
 ![CSS](https://img.shields.io/badge/-CSS-0?&style=for-the-badge&logo=CSS3&logoColor=4f94ef&color=white)
-![CSS](https://img.shields.io/badge/-CSS-0?&style=for-the-badge&logo=CSS3&logoColor=4f94ef&color=white)
 ![JS](https://img.shields.io/badge/-JavaScript-0?&style=for-the-badge&logo=JavaScript&logoColor=4f94ef&color=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0?&style=for-the-badge&logo=TypeScript&logoColor=4f94ef&color=white)
 
