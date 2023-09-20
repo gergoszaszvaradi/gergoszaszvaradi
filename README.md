@@ -1,5 +1,5 @@
 <h3 align="center">👋 Hi, I'm Gergo Szasz-Varadi 👋</h3>
-<p align="center">I'm editing text files professionally</p>
+<p align="center">I edit text files professionally</p>
 
 <h3>📖 Almost everything about me</h3>
 <ul>
