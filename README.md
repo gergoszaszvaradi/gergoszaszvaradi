@@ -41,8 +41,8 @@
 <h3>📈 GitHub stats for the nerds</h3>
 
 <a href="https://github.com/gergoszaszvaradi">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=gergoszaszvaradi&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_title=true&text_bold=false&text_color=ffffff&hide_border=true" />
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gergoszaszvaradi&langs_count=5&layout=donut&theme=transparent&text_bold=false&text_color=ffffff&hide_border=true&hide_title=true" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=gergoszaszvaradi&include_all_commits=true&count_private=true&show_icons=true&theme=transparent&hide_title=true&text_bold=false&text_color=434d58&hide_border=true" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gergoszaszvaradi&langs_count=5&layout=donut&theme=transparent&text_bold=false&text_color=434d58&hide_border=true&hide_title=true" />
 </a>
 
 <h3>📋 Personal Projects</h3>
